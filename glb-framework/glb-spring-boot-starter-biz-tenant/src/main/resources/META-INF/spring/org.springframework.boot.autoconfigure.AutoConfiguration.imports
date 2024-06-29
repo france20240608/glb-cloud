@@ -1,0 +1,2 @@
+com.glb.cloud.framework.tenant.config.GlbTenantRpcAutoConfiguration
+com.glb.cloud.framework.tenant.config.GlbTenantAutoConfiguration

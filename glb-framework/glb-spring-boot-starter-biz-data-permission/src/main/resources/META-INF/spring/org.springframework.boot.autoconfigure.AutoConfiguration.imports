@@ -1,0 +1,2 @@
+com.glb.cloud.framework.datapermission.config.GlbDataPermissionAutoConfiguration
+com.glb.cloud.framework.datapermission.config.GlbDeptDataPermissionAutoConfiguration

@@ -1,0 +1,3 @@
+com.glb.cloud.framework.mq.redis.config.GlbRedisMQProducerAutoConfiguration
+com.glb.cloud.framework.mq.redis.config.GlbRedisMQConsumerAutoConfiguration
+com.glb.cloud.framework.mq.rabbitmq.config.GlbRabbitMQAutoConfiguration

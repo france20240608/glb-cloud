@@ -1,0 +1,2 @@
+com.glb.cloud.framework.tracer.config.GlbTracerAutoConfiguration
+com.glb.cloud.framework.tracer.config.GlbMetricsAutoConfiguration

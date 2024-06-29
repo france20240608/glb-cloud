@@ -1,0 +1,2 @@
+com.glb.cloud.framework.env.config.GlbEnvWebAutoConfiguration
+com.glb.cloud.framework.env.config.GlbEnvRpcAutoConfiguration

@@ -1,0 +1,5 @@
+com.glb.cloud.framework.security.config.GlbSecurityRpcAutoConfiguration
+com.glb.cloud.framework.security.config.GlbSecurityAutoConfiguration
+com.glb.cloud.framework.security.config.GlbWebSecurityConfigurerAdapter
+com.glb.cloud.framework.operatelog.config.GlbOperateLogConfiguration
+com.glb.cloud.framework.operatelog.config.GlbOperateLogRpcAutoConfiguration

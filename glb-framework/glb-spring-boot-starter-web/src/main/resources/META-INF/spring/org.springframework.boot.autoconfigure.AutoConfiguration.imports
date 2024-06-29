@@ -1,0 +1,6 @@
+com.glb.cloud.framework.apilog.config.GlbApiLogAutoConfiguration
+com.glb.cloud.framework.jackson.config.GlbJacksonAutoConfiguration
+com.glb.cloud.framework.swagger.config.GlbSwaggerAutoConfiguration
+com.glb.cloud.framework.web.config.GlbWebAutoConfiguration
+com.glb.cloud.framework.apilog.config.GlbApiLogRpcAutoConfiguration
+com.glb.cloud.framework.banner.config.GlbBannerAutoConfiguration

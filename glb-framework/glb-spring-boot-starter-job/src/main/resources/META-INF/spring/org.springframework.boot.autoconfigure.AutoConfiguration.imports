@@ -1,0 +1,2 @@
+com.glb.cloud.framework.quartz.config.GlbXxlJobAutoConfiguration
+com.glb.cloud.framework.quartz.config.GlbAsyncAutoConfiguration

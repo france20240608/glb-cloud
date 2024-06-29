@@ -1,0 +1,2 @@
+com.glb.cloud.framework.redis.config.GlbRedisAutoConfiguration
+com.glb.cloud.framework.redis.config.GlbCacheAutoConfiguration

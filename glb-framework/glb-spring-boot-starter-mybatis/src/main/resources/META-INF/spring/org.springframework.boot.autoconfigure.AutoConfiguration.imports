@@ -1,0 +1,3 @@
+com.glb.cloud.framework.datasource.config.GlbDataSourceAutoConfiguration
+com.glb.cloud.framework.mybatis.config.GlbMybatisAutoConfiguration
+com.glb.cloud.framework.translate.config.GlbTranslateAutoConfiguration
