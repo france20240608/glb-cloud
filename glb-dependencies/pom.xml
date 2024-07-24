@@ -27,7 +27,7 @@
         <!-- DB 相关 -->
         <druid.version>1.2.23</druid.version>
         <mybatis-spring.version>3.0.3</mybatis-spring.version>
-        <mybatis-plus.version>3.5.5</mybatis-plus.version>
+        <mybatis-plus.version>3.5.5</mybatis-plus.version> <!-- Spring Boot 3.X 最多使用 3.5.5 版本 -->
         <mybatis-plus-generator.version>3.5.7</mybatis-plus-generator.version>
         <dynamic-datasource.version>4.3.1</dynamic-datasource.version>
         <mybatis-plus-join.version>1.4.13</mybatis-plus-join.version>
@@ -62,7 +62,7 @@
         <easyexcel.verion>4.0.1</easyexcel.verion>
         <velocity.version>2.3</velocity.version>
         <screw.version>1.0.5</screw.version>
-        <fastjson2.version>1.2.83</fastjson2.version>
+        <fastjson2.version>2.0.51</fastjson2.version>
         <guava.version>33.2.1-jre</guava.version>
         <guice.version>7.0.0</guice.version>
         <transmittable-thread-local.version>2.14.5</transmittable-thread-local.version>
@@ -515,7 +515,7 @@
             </dependency>
 
             <dependency>
-                <groupId>com.alibaba</groupId>
+                <groupId>com.alibaba.fastjson2</groupId>
                 <artifactId>fastjson2</artifactId>
                 <version>${fastjson2.version}</version>
             </dependency>

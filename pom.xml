@@ -16,12 +16,6 @@
         <module>glb-module-infra</module>
         <module>glb-module-member</module>
         <module>glb-module-bpm</module>
-        <module>glb-module-pay</module>
-        <module>glb-module-report</module>
-        <module>glb-module-mp</module>
-        <module>glb-module-mall</module>
-        <module>glb-module-erp</module>
-        <module>glb-module-crm</module>
     </modules>
 
     <name>${project.artifactId}</name>
